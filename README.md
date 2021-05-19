@@ -1,12 +1,14 @@
 # Siamese Network
 
+![image](./siameseNet.png)
+
 - Fun architecture
 - Simple to advanced architectues
 - signet (signature verification) = real/fraud
     - the two individual inputs, like signatures
     - there are two separate network architectures
     - with identical bodies
-    - weight updates are also identical
+    - weight updates are amvlso identical
 - positive pair
 - negative pair
 - generating image pairs is the cornerstone
